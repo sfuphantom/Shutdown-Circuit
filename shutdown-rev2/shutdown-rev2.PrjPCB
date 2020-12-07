@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RIYAIAXS
 
 [Document10]
 DocumentPath=SDC.PcbLib
@@ -206,6 +206,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEVYQDUD
+
+[Document11]
+DocumentPath=SDC-BSPD-rev2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QUFKRUMR
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for shutdown-rev2\Design Rule Check - SDC-BSPD-rev2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
