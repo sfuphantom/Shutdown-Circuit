@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [shutdown-rev2.PrjPCB]
+   Generated File[SDC-BSPD-rev2.TXT]
+   Generated File[SDC-BSPD-rev2.LDP]
+   Generated File[SDC-BSPD-rev2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:08:55 AM On 2021-06-04
