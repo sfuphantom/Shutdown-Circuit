@@ -1,9 +1,12 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [shutdown-rev2.PrjPCB]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [shutdown-rev2.PrjPCB]
+   Generated File[SDC-BSPD-rev2.TXT]
+   Generated File[SDC-BSPD-rev2.LDP]
+   Generated File[SDC-BSPD-rev2.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 4:25:03 PM On 2021-06-12
+Finished Output Generation At 10:50:37 PM On 2021-06-13

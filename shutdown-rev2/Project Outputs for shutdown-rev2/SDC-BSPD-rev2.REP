@@ -13,6 +13,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Board Outline
+      File : SDC-BSPD-rev2.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SDC-BSPD-rev2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SDC-BSPD-rev2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : SDC-BSPD-rev2.GTS
 
@@ -78,6 +124,44 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : SDC-BSPD-rev2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SDC-BSPD-rev2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : SDC-BSPD-rev2.GTL
 
@@ -116,89 +200,5 @@ Used DCodes :
     D62
     D63
     D64
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : SDC-BSPD-rev2.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SDC-BSPD-rev2.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SDC-BSPD-rev2.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : SDC-BSPD-rev2.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D52
-    D53
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : SDC-BSPD-rev2.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
 *************************************************************
 
