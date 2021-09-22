@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDB_OUT Pin=J3-1
+Removed Pin From Net: NetName=AIRs Pin=J3-6
+Added Pin To Net: NetName=AIRs Pin=J3-1
+Added Pin To Net: NetName=SDB_OUT Pin=J3-6
