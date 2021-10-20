@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=12V Pin=J1-2
+Removed Pin From Net: NetName=5V Pin=J1-3
+Change Component Footprint: Designator=J1 Old Footprint=3PIN New Footprint=8PIN
+Change Component Comment : Designator=R9 Old Comment=100R New Comment=180R
+Change Component Comment : Designator=J1 Old Comment=WM4901-ND New Comment=23-0705530112-ND
+Added Pin To Net: NetName=SDB_IN Pin=J1-1
+Added Pin To Net: NetName=IMD_FLT Pin=J1-2
+Added Pin To Net: NetName=BMS_FLT Pin=J1-3
+Added Pin To Net: NetName=DUMMY_FLT Pin=J1-4
+Added Pin To Net: NetName=SET/RESET Pin=J1-5
+Added Pin To Net: NetName=12V Pin=J1-6
+Added Pin To Net: NetName=5V Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
