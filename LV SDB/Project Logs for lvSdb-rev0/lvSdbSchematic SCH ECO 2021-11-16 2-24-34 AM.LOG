@@ -1,0 +1,7 @@
+Remove Pin=K2-4 From Net=SDB_OUT
+Change Component Comment: Designator=M1 Old Comment=WM10669-ND New Comment=0436500428
+Change Component Comment: Designator=M2 Old Comment=WM10672-ND New Comment=0436500428
+Change Pin Designator/Name:  Old Designator=M1-2 Old Name=12V New Designator =SET/RESET New Name=3
+Change Pin Designator/Name:  Old Designator=M1-3 Old Name=SET/RESET New Designator =GND New Name=4
+Change Pin Designator/Name:  Old Designator=M2-3 Old Name=BSPD_FLT New Designator =CRT_SENS New Name=1
+Change Pin Designator/Name:  Old Designator=M2-4 Old Name=VCU_FLT New Designator =BRAKE_SENS New Name=2

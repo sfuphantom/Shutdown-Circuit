@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SDB_IN Pin=M1-1
+Removed Pin From Net: NetName=5V Pin=M1-2
+Removed Pin From Net: NetName=12V Pin=M1-3
+Removed Pin From Net: NetName=SET/RESET Pin=M1-4
+Added Pin To Net: NetName=SET/RESET Pin=M1-1
+Added Pin To Net: NetName=SDB_IN Pin=M1-2
+Added Pin To Net: NetName=5V Pin=M1-3
+Added Pin To Net: NetName=12V Pin=M1-4
+Added Member To Class: ClassName=lvSdbSchematic Member=Component D3 Green
+Added Member To Class: ClassName=lvSdbSchematic Member=Component R3 180R

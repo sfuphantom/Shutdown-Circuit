@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=12V Pin=M1-3
+Change Component Footprint: Designator=M2 Old Footprint=4-PIN MOLEX New Footprint=5-PIN MOLEX
+Change Component Comment : Designator=M1 Old Comment=0436500428 New Comment=WM10669-ND
+Change Component Comment : Designator=M2 Old Comment=0436500428 New Comment=WM10672-ND
+Added Pin To Net: NetName=12V Pin=M1-2
+Added Pin To Net: NetName=SET/RESET Pin=M1-3
+Added Pin To Net: NetName=BSPD_FLT Pin=M2-3
+Added Pin To Net: NetName=VCU_FLT Pin=M2-4
+Added Pin To Net: NetName=NetM2_5 Pin=M2-5

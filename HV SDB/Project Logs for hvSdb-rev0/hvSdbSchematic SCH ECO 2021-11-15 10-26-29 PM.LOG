@@ -1,0 +1,2 @@
+Remove Pin=J2-1 From Net=SDB_RETURN
+Remove Pin=J2-5 From Net=SDB_OUT
