@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCU_FLT Pin=M2-1
+Removed Pin From Net: NetName=BSPD_FLT Pin=M2-2
+Added Pin To Net: NetName=BSPD_FLT Pin=M2-1
+Added Pin To Net: NetName=VCU_FLT Pin=M2-2
